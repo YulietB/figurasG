@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace fugurasGeo
 {
-    internal class Poligonoirreular
+    class Poligonoirreular
     {
     }
 }
